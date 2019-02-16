@@ -53,7 +53,7 @@ public class NetworkUtils {
 		return "127.0.0.1";
 	}
 	//根据主机名称获取所有ip地址
-	private String[] getAllLocalHostIP() {
+	public String[] getAllLocalHostIP() {
 		String[] ret = null;
 		try {
 			String hostName = getLocalHostName();
