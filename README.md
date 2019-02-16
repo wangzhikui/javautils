@@ -2,7 +2,7 @@
 各种常用的java逻辑代码封装的工具类
 
 # 目录
-[获取本地ip](#NetworkUtils.java)
+- [获取本地ip](#NetworkUtils.java)
 
 # NetworkUtils.java
 获取本地ip地址工具类，多网卡的情况下获取全部ip地址
